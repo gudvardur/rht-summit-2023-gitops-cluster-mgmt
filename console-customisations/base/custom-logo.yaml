@@ -7,4 +7,4 @@ spec:
     customLogoFile:
       key: arion-banki-logo.png
       name: arion-banki-logo
-    customProductName: Arion banki
+    customProductName: My Console
