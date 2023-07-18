@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
 - arion-banki-logo.yaml
 - custom-logo.yaml
+- console-notification.welcome-banner.yaml
