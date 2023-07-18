@@ -5,8 +5,8 @@ metadata:
 spec:
   backgroundColor: '#EE0000'
   color: '#fff'
-  link:
-    href: https://www.redhat.com/en/summit
-    text: (Event Information)
+#  link:
+#    href: https://www.redhat.com/en/summit
+#    text: (Event Information)
   location: BannerTop
-  text: Welcome to Red Hat Summit 2023!
+  text: NOT IN PRODUCTION - SETUP IN PROGRESS
