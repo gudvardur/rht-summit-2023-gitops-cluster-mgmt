@@ -4,7 +4,7 @@ metadata:
   name: arion-banki-logo
   namespace: openshift-config
 binaryData:
-  arion-banki-logo.svg: >
+  arion-banki-logo.svg: |
     <svg
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns="http://www.w3.org/2000/svg"
