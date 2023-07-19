@@ -5,6 +5,6 @@ metadata:
 spec:
   customization:
     customLogoFile:
-      key: arion-banki-logo.png
+      key: arion-banki-logo.svg
       name: arion-banki-logo
     customProductName: My Console
